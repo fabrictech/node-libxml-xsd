@@ -4,7 +4,7 @@
  */
 
 var fs = require('fs');
-var libxmljs = require('libxmljs-mt');
+var libxmljs = require('libxmljs');
 var binding = require('bindings')('node-libxml-xsd');
 
 /**
