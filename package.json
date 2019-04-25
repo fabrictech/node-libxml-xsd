@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "bindings": "^1.2.1",
-    "libxmljs-mt": "^0.18.0",
+    "libxmljs": "^0.19.5",
     "nan": "^2.6.2"
   },
   "devDependencies": {
